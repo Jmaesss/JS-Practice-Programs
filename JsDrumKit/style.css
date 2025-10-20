@@ -37,6 +37,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+.playing{
+    transform: scale(1.1);
+    border-color: #f8db38;
+    box-shadow: 0 0 10px #f8db38;
+}
 kbd{
     font-size: 40px;
     font-weight: bold;
